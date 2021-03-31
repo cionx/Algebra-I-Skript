@@ -20,4 +20,4 @@ For comments and corrections please contact me at `jendrikstelzner (at) uni-bonn
 
 
 
-[1]: https://lecture-notes-bonn.gitlab.io/algebra-1-notes-ss-14/algebra-1-notes.pdf
+[1]: https://lecture-notes-bonn.gitlab.io/original/algebra-1-notes-ss-14/algebra-1-notes.pdf
